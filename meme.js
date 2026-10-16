@@ -3,12 +3,13 @@ let number = 0
 let score = 0
 let genre = localStorage.getItem("genre")
 
-
+let message = document.getElementById("message")
 let image = document.getElementById("image")
 let question = document.getElementById("question")
 let option1 = document.getElementById("option1")
 let option2 = document.getElementById("option2")
 let option3 = document.getElementById("option3")
+
 let Next = document.getElementById("Next")
 
 fetch("meme.json")
@@ -35,7 +36,7 @@ fetch("meme.json")
          message.textContent = "Correct!"
          score = score + 1
          } else {
-        message.textContent = "Wrong! Answer: " + questions[number].answer
+        message.textContent = "you dont know twin! Answer: " + questions[number].answer
     }
 }
 option1.onclick = function () { chooseOption(option1) }

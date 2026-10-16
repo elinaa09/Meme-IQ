@@ -16,7 +16,7 @@
         "question":"Whats the correct way to say a formula" ,
         "answer": "By jumping and jumping",
         "option1": "while crying",
-        "option2": "by jumping and jumping ",
+        "option2": "By jumping and jumping ",
         "option3": "By studying"
     },
 
@@ -69,7 +69,7 @@
         "genre":"international",
         "image":"assets/hammod.jpg" ,
         "question":"what is he dancing to?" ,
-        "answer":"hammod habibi hammod" ,
+        "answer":"Hammod habibi hammod" ,
         "option1": "shiba shiba",
         "option2": "Cantina",
         "option3":"Hammod habibi hammod"
@@ -124,7 +124,7 @@
         "question":"who is this gen-alpha's most loved legend",
         "answer":"tung tungs shaurr",
         "option1":"woodeno wood" ,
-        "option2":"tung tungs shaurr" ,
+        "option2":"tung tungs shaurr",
         "option3":"browiniw battty bo boo" 
     },
 
@@ -160,41 +160,41 @@
 
     {
         "genre":"international",
-        "question":"habibi " ,
-        "answer":"come to dubai" ,
-        "option1":"kawai sama" ,
-        "option2": "come be mi biwi",
-        "option3":"come to dubai"
+        "question":"Habibi " ,
+        "answer":"Come to dubai" ,
+        "option1":"Kawai sama" ,
+        "option2": "Come be mi biwi",
+        "option3":"Come to dubai"
     },
 
     {
         "genre":"international",
         "image":"assets/hellnaww.jpg" ,
-        "question":"what is this unc screaming",
-        "answer": "whattt oh hell naaah",
+        "question":"What is this unc screaming",
+        "answer": "Whattt oh hell naaah",
         "option1": "BEEFFF",
-        "option2": "whattt oh hell naaah",
+        "option2": "Whattt oh hell naaah",
         "option3": "Hmburgerr"
     },
 
     {
         "genre":"international",
         "image":"assets/omg.jpg" ,
-        "question":"what does this image sound like" ,
-        "answer": "oh my gaaa ",
-        "option1": "woooou",
+        "question":"What does this image sound like" ,
+        "answer": "Oh my gaaa",
+        "option1": "Woooou",
         "option2": "Oh my gaaa",
-        "option3": "ohhhhhhh"
+        "option3": "Ohhhhhhh"
     },
 
     {
         "genre":"international",
         "image":"assets/wigs.jpg" ,
-        "question":"what is he aking" ,
-        "answer": "both",
-        "option1": "have you worn wigs?",
-        "option2":"when will you wear wigs?" ,
-        "option3":"both"
+        "question":"What is he aking" ,
+        "answer": "Both",
+        "option1": "Have you worn wigs?",
+        "option2":"When will you wear wigs?" ,
+        "option3":"Both"
     }
 
 ]

@@ -1,9 +1,9 @@
-
 let genre = ""
 
 let continueButton = document.getElementById("continue")
 let indian = document.getElementById("indian")
-let international = document.getElementById("OG international")
+let international = document.getElementById("international")
+let message = document.getElementById("message")
 
 indian.onclick = function () {
 genre = "indian"

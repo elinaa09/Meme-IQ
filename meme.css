@@ -1,24 +1,15 @@
-* {
-    margin: 0;
-    padding: auto;
-    font-family: 'Poppins', sans-serif;
-    box-sizing: border-box;
-}
 body{
     background-color: #468a96;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+
 }
 
 image{
-    max-width: 300px;
+    max-width: 500px;
 }
 
-.option box{
-    background:whitesmoke ;
-    width: 60px;
-    height: auto;
-    border-radius: 5px;
-
-}
 
 .question{
     background:#468a96 ;
@@ -30,4 +21,7 @@ button{
     display: block;
     margin: auto;
     padding: 20;
+    background: whitesmoke;
+    border: none;
+    border-radius: 5px;
 }

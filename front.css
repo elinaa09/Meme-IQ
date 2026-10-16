@@ -3,11 +3,10 @@ body {
     font-family: sans-serif;
 }
 
-img {
-    max-width: 300px;
-}
 
 button{
+    display: block;
+    margin: 10px;
     width: 100px;
-    height: auto;
+    height: 130px;
 }
