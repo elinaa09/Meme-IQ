@@ -8,6 +8,10 @@ body{
     background-color: #468a96;
 }
 
+image{
+    max-width: 300px;
+}
+
 .option box{
     background:whitesmoke ;
     width: 60px;
@@ -22,3 +26,8 @@ body{
 
 }
 
+button{
+    display: block;
+    margin: auto;
+    padding: 20;
+}

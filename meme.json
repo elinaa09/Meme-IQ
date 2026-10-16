@@ -1,5 +1,6 @@
 [
     {
+        "genre":"OG indian",
         "image": "assets/aachaji.jpg",
         "question":"what is she gonna say" ,
         "answer":"aacha ji, aesa hae kya" ,
@@ -10,26 +11,29 @@
 
 
     {
+        "genre":"OG indian",
         "image":"assets/alkane.jpg" ,
         "question":"Whats the correct way to say a formula" ,
-        "answer": "while jumping and jumping",
-        "option1": ,
-        "option2": "while jumping and jumping ",
-        "option3": 
+        "answer": "By jumping and jumping",
+        "option1": "while crying",
+        "option2": "by jumping and jumping ",
+        "option3": "By studying"
     },
 
 
     {
+        "genre":"OG indian",
         "image": "assets/chaddi.jpg",
         "question":"what is her most asked,heated question" ,
         "answer": "aaj kis colour ki chaddi pehnae ho?",
-        "option1": ,
-        "option2": ,
+        "option1": "pani piya aaj?",
+        "option2": "pani q nahi pite aap?",
         "option3": "aaj kis colour ki chaddi pehnae ho?"
     },
 
 
     {
+        "genre":"OG indian",
         "image":"assets/joker.png" ,
         "question":"what is this distinguished gentalman known as" ,
         "answer": "tiktok joker",
@@ -40,6 +44,7 @@
 
 
     {
+        "genre":"OG indian",
         "image":"assets/nocontrol.jpg" ,
         "question":"In the night" ,
         "answer": "no control" ,
@@ -50,16 +55,18 @@
 
 
     {
+        "genre": "OG international",
         "image":"assets/chipichipi.jpg",
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": 
+        "question":"what is this car doin" ,
+        "answer": "chipi chipi chapa chapa",
+        "option1": "chipi chipi chapa chapa",
+        "option2": "num num num",
+        "option3": "fih"
     },
 
 
     {
+        "genre":"OG international",
         "image":"assets/hammod.jpg" ,
         "question":"what is he dancing to?" ,
         "answer":"hammod habibi hammod" ,
@@ -70,16 +77,18 @@
 
 
     {
+        "genre":"OG international",
         "image": "assets/heavier.jpg",
         "question": "What did he ask",
         "answer": "whas heavier, kilogram of steel or kilogram of fethar",
         "option1": "whas heavier, kilogram of steel or kilogram of fethar",
-        "option2": ,
-        "option3": 
+        "option2":"did egg came first or the chicken" ,
+        "option3":"do you belive rabbit lost beacuse it was humiliating to take the race seriously?" 
     },
 
 
     {
+        "genre":"OG international",
         "image":"assets/loca.jpg" ,
         "question":"when you play this song" ,
         "answer": "all the girls go loca",
@@ -90,6 +99,7 @@
 
 
     {
+        "genre":"OG international",
         "image":"assets/pebbele.jpg" ,
         "question":"what is he saying",
         "answer":"wash mah belly" ,
@@ -99,15 +109,17 @@
     },
 
     {
+        "genre":"OG international",
         "image":"assets/privet.jpg" ,
         "question":"what is this unc saying" ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": 
+        "answer":"this aint no state property" ,
+        "option1":"this aint no state property" ,
+        "option2": "genz kids over here",
+        "option3": "sikeee"
     },
 
     {
+        "genre":"OG international",
         "image":"assets/tungtung.jpg" ,
         "question":"who is this gen-alpha's most loved legend",
         "answer":"tung tungs haurr",
@@ -117,6 +129,7 @@
     },
 
     {
+        "genre":"OG international",
         "image":"assets/waitaminjpg" ,
         "question":"what is this kid saying" ,
         "answer": "67",
@@ -126,6 +139,7 @@
     },
 
     {
+        "genre":"OG international",
         "image":"assets/wiwiwi.jpg" ,
         "question":"what did your inner-voice said when you saw this image" ,
         "answer": "wiwiwi",
@@ -135,110 +149,52 @@
     },
 
     {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": ,
+        "genre":"OG international",
+        "image":"assets/brothereww.jpg" ,
+        "question":"what does this image sound like?" ,
+        "answer": "brother ewwwwwwww",
+        "option1": "brother ewwwwwwww",
+        "option2":"habibi" ,
+        "option3": "shibal"
     },
 
     {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": ,
+        "genre":"OG international",
+        "question":"habibi " ,
+        "answer":"come to dubai" ,
+        "option1":"kawai sama" ,
+        "option2": "come be mi biwi",
+        "option3":"come to dubai"
     },
 
     {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": ,
+        "genre":"OG international",
+        "image":"assets/hellnaww.jpg" ,
+        "question":"what is this unc screaming",
+        "answer": "whattt oh hell naaah",
+        "option1": "BEEFFF",
+        "option2": "whattt oh hell naaah",
+        "option3": "Hmburgerr"
     },
 
     {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": 
+        "genre":"OG international",
+        "image":"assets/omg.jpg" ,
+        "question":"what does this image sound like" ,
+        "answer": "oh my gaaa ",
+        "option1": "woooou",
+        "option2": "Oh my gaaa",
+        "option3": "ohhhhhhh"
     },
 
     {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": 
-    },
+        "genre":"OG international",
+        "image":"assets/wigs.jpg" ,
+        "question":"what is he aking" ,
+        "answer": "both",
+        "option1": "have you worn wigs?",
+        "option2":"when will you wear wigs?" ,
+        "option3":"both"
+    }
 
-    {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": 
-    },
-
-    {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": 
-    },
-
-    {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": 
-    },
-
-    {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": 
-    },
-
-    {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": 
-    },
-
-    {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": 
-    },
-
-    {
-        "image":"assets/" ,
-        "question": ,
-        "answer": ,
-        "option1": ,
-        "option2": ,
-        "option3": 
-    },
 ]

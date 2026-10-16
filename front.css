@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+img {
+    max-width: 300px;
+}
+
+button{
+    width: 100px;
+    height: auto;
+}
