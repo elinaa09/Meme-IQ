@@ -2,11 +2,11 @@
     {
         "genre":"indian",
         "image": "assets/aachaji.jpg",
-        "question":"what is she gonna say" ,
-        "answer":"aacha ji, aesa hae kya" ,
-        "option1":"aacha ji, aesa hae kya" ,
-        "option2": "padhai to mae bhi karlu ladle",
-        "option3": "meowwh meowwh"
+        "question":"What is she gonna say" ,
+        "answer":"Aacha ji, aesa hae kya" ,
+        "option1":"Aacha ji, aesa hae kya" ,
+        "option2": "Padhai to mae bhi karlu ladle",
+        "option3": "Meowwh meowwh"
     },
 
 
@@ -15,7 +15,7 @@
         "image":"assets/alkane.jpg" ,
         "question":"Whats the correct way to say a formula" ,
         "answer": "By jumping and jumping",
-        "option1": "while crying",
+        "option1": "While crying",
         "option2": "By jumping and jumping ",
         "option3": "By studying"
     },
@@ -24,11 +24,11 @@
     {
         "genre":"indian",
         "image": "assets/chaddi.jpg",
-        "question":"what is her most asked,heated question" ,
-        "answer": "aaj kis colour ki chaddi pehnae ho?",
-        "option1": "pani piya aaj?",
+        "question":"What is her most asked,heated question" ,
+        "answer": "Aaj kis colour ki chaddi pehnae ho?",
+        "option1": "Pani piya aaj?",
         "option2": "pani q nahi pite aap?",
-        "option3": "aaj kis colour ki chaddi pehnae ho?"
+        "option3": "Aaj kis colour ki chaddi pehnae ho?"
     },
 
 
