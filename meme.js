@@ -29,6 +29,7 @@ fetch("meme.json")
             option1.textContent = questions[number].option1
             option2.textContent = questions[number].option2
             option3.textContent = questions[number].option3
+        
             message.textContent = ""
         }
         function chooseOption(button) {

@@ -7,7 +7,8 @@ body{
 }
 
 image{
-    max-width: 300px;
+    max-width: 200px;
+    border-radius: 10px;
 }
 
 
@@ -23,8 +24,10 @@ h2 {
 
 button{
     display: block;
+    width: 200px;
     margin: auto;
     padding: 20;
+    font-size: 18px;
     background: whitesmoke;
     border: none;
     border-radius: 5px;
@@ -42,4 +45,8 @@ button{
     font-size: 20px;
     min-height: 30px;
     margin-bottom: 15px;
+}
+
+#score {
+    font-size: 20px;
 }
