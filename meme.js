@@ -29,15 +29,19 @@ fetch("meme.json")
             option1.textContent = questions[number].option1
             option2.textContent = questions[number].option2
             option3.textContent = questions[number].option3
-        
+
+            option1.disabled = false
+            option2.disabled = false
+            option3.disabled = false
             message.textContent = ""
         }
+        
         function chooseOption(button) {
     if (button.textContent === questions[number].answer) {
          message.textContent = "Correct!"
          score = score + 1
          } else {
-        message.textContent = "you dont know twin! Answer: " + questions[number].answer
+        message.textContent = "you dont know twin! Answer " + questions[number].answer
     }
 }
 option1.onclick = function () { chooseOption(option1) }
@@ -49,6 +53,7 @@ next.onclick = function () {
     if (number < questions.length) {
         showQuestion()
     } else {
+
         question.textContent = "Done! Your score: " + score + " / " + questions.length
         image.src = ""
         option1.hidden = true
@@ -56,6 +61,7 @@ next.onclick = function () {
         option3.hidden = true
         next.hidden = true
         message.textContent = ""
+        number.style.display= "none"
     }
 }
 

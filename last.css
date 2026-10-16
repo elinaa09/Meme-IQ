@@ -6,3 +6,9 @@ body{
     padding-top: 80px;
 }
 
+button{
+    display: block;
+    width: 400px;
+    background: whitesmoke;
+
+}

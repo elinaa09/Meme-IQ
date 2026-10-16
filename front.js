@@ -20,6 +20,6 @@ continueButton.onclick = function () {
         message.textContent = "Pick a genre first"
     } else {
         localStorage.setItem("genre", genre)
-         window.location.href = "meme.html"
+        window.location.href = "meme.html"
     }
 }

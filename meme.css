@@ -7,7 +7,8 @@ body{
 }
 
 image{
-    max-width: 200px;
+    height: auto;
+    width: 200px;
     border-radius: 10px;
 }
 
@@ -26,11 +27,11 @@ button{
     display: block;
     width: 200px;
     margin: auto;
-    padding: 20;
+    padding: 25;
     font-size: 18px;
     background: whitesmoke;
-    border: none;
-    border-radius: 5px;
+    border: #468a96;
+    border-radius: 10px;
 }
 
 .buttons {
