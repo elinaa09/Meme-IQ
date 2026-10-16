@@ -1,4 +1,6 @@
 let questions = []
+let number = 0
+let score = 0
 let genre = localStorage.getItem("genre")
 
 
@@ -7,7 +9,7 @@ let question = document.getElementById("question")
 let option1 = document.getElementById("option1")
 let option2 = document.getElementById("option2")
 let option3 = document.getElementById("option3")
-let next = document.getElementById("next")
+let Next = document.getElementById("Next")
 
 fetch("meme.json")
     .then(response => response.json())
