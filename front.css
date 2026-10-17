@@ -8,16 +8,17 @@ body {
     font-family: sans-serif;
     text-align: center;
     padding-top: 80px;
+    font-size: 22px;
 }
 
 
 button{
     display: block;
-    margin: 10px;
-    width: 100px;
-    height: 130px;
+    margin: 20px;
+    width: 300px;
+    height: auto;
     padding: 18px;
-    border: 2px s black;
+    border: 2px  black;
     border-radius: 15px;
 }
 
@@ -30,9 +31,14 @@ button{
 }
 
 #message {
-    font-size: 18px;
+    font-size: 22px;
     min-height: 30px;
-    margin-bottom: 20px;
+}
+
+#continue{
+    background: #9cc1c8;
+    color: white;
+    font-weight: bold;
 }
 
 .next{
