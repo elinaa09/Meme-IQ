@@ -1,5 +1,8 @@
 body {
     background-image: url("assets/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     text-align: center;
     background-position: center;
     font-family: sans-serif;
@@ -13,6 +16,8 @@ button{
     margin: 10px;
     width: 100px;
     height: 130px;
+    padding: 18px;
+    border: 2px s black;
     border-radius: 15px;
 }
 
