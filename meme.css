@@ -1,11 +1,12 @@
 body{
-    background-image: url("assets/memeiqbg.jpg");
+    background-image: url("assets/bg.jpg");
     background-size: cover;
+    background-position: center;
     color: #9fb1b6;
     text-align: center;
     padding: 20px;
     font-family: sans-serif;
-
+    color:#c4bdbf ; 
 }
 
 #image{
@@ -59,8 +60,4 @@ button:hover {
 #score {
     font-size: 20px;
     padding: auto;
-}
-
-a {
-    color: #c4bdbf;
 }
