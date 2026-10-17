@@ -33,8 +33,8 @@
 
 
     {
-        "genre":"OG indian",
-        "image":"assets/joker.png" ,
+        "genre":"indian",
+        "image":"assets/joker.jpg",
         "question":"What is this distinguished gentalman known as" ,
         "answer": "Tiktok joker",
         "option1": "Tiktok joker",
@@ -100,11 +100,11 @@
 
     {
         "genre":"international",
-        "image":"assets/pebbele.jpg" ,
-        "question":"what is he saying",
-        "answer":"wash mah belly" ,
-        "option1": "wash mah belly",
-        "option2":"world domination" ,
+        "image":"assets/pebble.jpg",
+        "question":"What is he saying",
+        "answer":"Wash mah belly" ,
+        "option1": "Wash mah belly",
+        "option2":"World domination" ,
         "option3":"fih"
     },
 
@@ -130,7 +130,7 @@
 
     {
         "genre":"international",
-        "image":"assets/waitaminjpg" ,
+        "image":"assets/waitamin.jpg" ,
         "question":"what is this kid saying" ,
         "answer": "67",
         "option1": "hot cheToes",

@@ -10,5 +10,12 @@ button{
     display: block;
     width: 400px;
     background: whitesmoke;
+    border: none;
+    border-radius: 15px;
 
+}
+
+h2 {
+    font-size: 32px;
+    margin: 40px 0;
 }

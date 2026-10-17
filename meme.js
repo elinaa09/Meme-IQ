@@ -9,8 +9,15 @@ let question = document.getElementById("question")
 let option1 = document.getElementById("option1")
 let option2 = document.getElementById("option2")
 let option3 = document.getElementById("option3")
+let scoreText = document.getElementById("score")
+let next = document.getElementById("next")
 
-let Next = document.getElementById("Next")
+let clickSound = new Audio("assets/click.mp3")
+
+function playClick() {
+    clickSound.currentTime = 0
+    clickSound.play()
+}
 
 fetch("meme.json")
     .then(response => response.json())
@@ -34,14 +41,23 @@ fetch("meme.json")
             option2.disabled = false
             option3.disabled = false
             message.textContent = ""
+            next.style.display = "none"
         }
         
         function chooseOption(button) {
-    if (button.textContent === questions[number].answer) {
-         message.textContent = "Correct!"
-         score = score + 1
-         } else {
-        message.textContent = "you dont know twin! Answer " + questions[number].answer
+            playClick()
+            next.style.display = "block"
+
+            option1.disabled = true
+            option2.disabled = true
+            option3.disabled = true
+
+            if (button.textContent === questions[number].answer) {
+                message.textContent = "Correct!"
+                score = score + 1
+                scoreText.textContent = "Score: " + score
+            } else {
+                message.textContent = "you dont know twin!" + questions[number].answer
     }
 }
 option1.onclick = function () { chooseOption(option1) }
@@ -53,15 +69,10 @@ next.onclick = function () {
     if (number < questions.length) {
         showQuestion()
     } else {
+        localStorage.setItem("score", score)
+        localStorage.setItem("total", questions.length)
+        window.location.href = "last.html"
 
-        question.textContent = "Done! Your score: " + score + " / " + questions.length
-        image.src = ""
-        option1.hidden = true
-        option2.hidden = true
-        option3.hidden = true
-        next.hidden = true
-        message.textContent = ""
-        number.style.display= "none"
     }
 }
 

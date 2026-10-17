@@ -5,6 +5,14 @@ let indian = document.getElementById("indian")
 let international = document.getElementById("international")
 let message = document.getElementById("message")
 
+let clickSound = new Audio("assets/click.mp3")
+
+function playClick() {
+    clickSound.currentTime = 0
+    clickSound.play()
+}
+
+
 indian.onclick = function () {
 genre = "indian"
     message.textContent = "You picked indian"

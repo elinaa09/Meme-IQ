@@ -2,14 +2,16 @@ body{
     background-color: #468a96;
     color: white;
     text-align: center;
+    padding: 20px;
     font-family: sans-serif;
 
 }
 
-image{
-    height: auto;
-    width: 200px;
-    border-radius: 10px;
+#image{
+    height: 250px;
+    width: 300px;
+    border-radius: 15px;
+    object-fit: contain;
 }
 
 
@@ -20,18 +22,19 @@ image{
 }
 
 h2 {
-    margin: 20px 0;
+    margin: 20px;
+    gap: 20px;
 }
 
 button{
     display: block;
     width: 200px;
     margin: auto;
-    padding: 25;
+    padding: 25px;
     font-size: 18px;
     background: whitesmoke;
     border: #468a96;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .buttons {
@@ -42,6 +45,10 @@ button{
     margin: 30px 0;
 }
 
+button:hover {
+    background: #ffe3e3;
+}
+
 #message {
     font-size: 20px;
     min-height: 30px;
@@ -50,4 +57,9 @@ button{
 
 #score {
     font-size: 20px;
+    padding: auto;
+}
+
+a {
+    color: #4a1f2e;
 }

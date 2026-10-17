@@ -1,5 +1,5 @@
 body {
-    background-color: #f8aeae;
+    background-color: #468a96;
     text-align: center;
     font-family: sans-serif;
     text-align: center;
@@ -12,6 +12,7 @@ button{
     margin: 10px;
     width: 100px;
     height: 130px;
+    border-radius: 15px;
 }
 
 .buttons {
@@ -19,11 +20,19 @@ button{
     flex-direction: column;
     align-items: center;
     gap: 20px;
-    margin: 40px 0;
+    margin: 40px;
 }
 
 #message {
     font-size: 18px;
     min-height: 30px;
     margin-bottom: 20px;
+}
+
+.next{
+    display: block;
+    margin: 20px;
+    background: #7babb5;
+    color: #fffdfd;
+    font-weight:bold;
 }
