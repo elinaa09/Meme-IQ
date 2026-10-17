@@ -130,7 +130,7 @@
 
     {
         "genre":"international",
-        "image":"assets/waitamin.jpg" ,
+        "image":"assets/six.jpg" ,
         "question":"What is this kid saying" ,
         "answer": "67",
         "option1": "Hot cheToes",
@@ -195,6 +195,37 @@
         "option1": "Have you worn wigs?",
         "option2":"When will you wear wigs?" ,
         "option3":"Both"
+    },
+
+    {
+        "genre":"international",
+        "image":"assets/waitamin.jpg" ,
+        "question":"What is this kid saying" ,
+        "answer": "Wait a minutee",
+        "option1": "Wait a minute",
+        "option2": "Bobby bidi bo?",
+        "option3": "67"
+    },
+
+    {
+        "genre":"international",
+        "image":"assets/six.jpg" ,
+        "question":"What is this kid saying" ,
+        "answer": "67",
+        "option1": "Enligment",
+        "option2": "Bobby bidi bo?",
+        "option3": "67"
+    },
+
+    {
+        "genre":"international",
+        "image":"assets/corn.jpg" ,
+        "question":"What is this kid saying" ,
+        "answer": "I really like some corn",
+        "option1": "I really like some corn",
+        "option2": "Black lives matter",
+        "option3": "I hate Skul"
     }
+
 
 ]

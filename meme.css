@@ -26,13 +26,14 @@ body{
 }
 
 h2 {
+    font-size: 40px;
     margin: 22px;
     gap: 10px;
 }
 
 button{
     display: block;
-    width: 300px;
+    width: 200px;
     margin: auto;
     padding: 20px;
     font-size: 18px;
