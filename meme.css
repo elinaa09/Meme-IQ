@@ -1,6 +1,7 @@
 body{
-    background-color: #468a96;
-    color: white;
+    background-image: url("assets/memeiqbg.jpg");
+    background-size: cover;
+    color: #9fb1b6;
     text-align: center;
     padding: 20px;
     font-family: sans-serif;
@@ -8,8 +9,8 @@ body{
 }
 
 #image{
-    height: 250px;
-    width: 300px;
+    height: 500px;
+    width: 480px;
     border-radius: 15px;
     object-fit: contain;
 }
@@ -61,5 +62,5 @@ button:hover {
 }
 
 a {
-    color: #4a1f2e;
+    color: #c4bdbf;
 }

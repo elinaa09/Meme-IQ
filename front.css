@@ -1,6 +1,7 @@
 body {
-    background-color: #468a96;
+    background-image: url("assets/memeiqbg.jpg");
     text-align: center;
+    background-position: center;
     font-family: sans-serif;
     text-align: center;
     padding-top: 80px;

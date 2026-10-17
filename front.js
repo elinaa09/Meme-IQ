@@ -10,7 +10,13 @@ let clickSound = new Audio("assets/click.mp3")
 function playClick() {
     clickSound.currentTime = 0
     clickSound.play()
+
+
+    bgMusic.play()
+    clickSound.currentTime = 0
+    clickSound.play()
 }
+
 
 
 indian.onclick = function () {

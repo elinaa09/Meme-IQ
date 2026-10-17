@@ -13,7 +13,7 @@
     {
         "genre":"indian",
         "image":"assets/alkane.jpg" ,
-        "question":"Whats the correct way to say a formula" ,
+        "question":"Whats the correct way to say a formula?" ,
         "answer": "By jumping and jumping",
         "option1": "While crying",
         "option2": "By jumping and jumping ",
@@ -24,7 +24,7 @@
     {
         "genre":"indian",
         "image": "assets/chaddi.jpg",
-        "question":"What is her most asked,heated question" ,
+        "question":"What is her most asked,heated question?" ,
         "answer": "Aaj kis colour ki chaddi pehnae ho?",
         "option1": "Pani piya aaj?",
         "option2": "pani q nahi pite aap?",
@@ -35,7 +35,7 @@
     {
         "genre":"indian",
         "image":"assets/joker.jpg",
-        "question":"What is this distinguished gentalman known as" ,
+        "question":"What is this distinguished gentalman known as?" ,
         "answer": "Tiktok joker",
         "option1": "Tiktok joker",
         "option2": "Billie copy",
@@ -46,7 +46,7 @@
     {
         "genre":"indian",
         "image":"assets/nocontrol.jpg" ,
-        "question":"In the night" ,
+        "question":"In the night.." ,
         "answer": "No control" ,
         "option1": "we grind",
         "option2": "stay high" ,
@@ -57,7 +57,7 @@
     {
         "genre": "international",
         "image":"assets/chipichipi.jpg",
-        "question":"what is this car doin" ,
+        "question":"what is this car doin?" ,
         "answer": "Chipi chipi chapa chapa",
         "option1": "Chipi chipi chapa chapa",
         "option2": "num num num",
@@ -79,7 +79,7 @@
     {
         "genre":"international",
         "image": "assets/heavier.jpg",
-        "question": "What did he ask",
+        "question": "What did he ask?",
         "answer": "whas heavier, kilogram of steel or kilogram of fethar",
         "option1": "whas heavier, kilogram of steel or kilogram of fethar",
         "option2":"did egg came first or the chicken" ,
@@ -90,7 +90,7 @@
     {
         "genre":"international",
         "image":"assets/loca.jpg" ,
-        "question":"when you play this song" ,
+        "question":"When you play this song.." ,
         "answer": "all the girls go loca",
         "option1": "pegion pegions",
         "option2":"pegion pea pees" ,
@@ -101,7 +101,7 @@
     {
         "genre":"international",
         "image":"assets/pebble.jpg",
-        "question":"What is he saying",
+        "question":"What is he saying?",
         "answer":"Wash mah belly" ,
         "option1": "Wash mah belly",
         "option2":"World domination" ,
@@ -111,7 +111,7 @@
     {
         "genre":"international",
         "image":"assets/privet.jpg" ,
-        "question":"what is this unc saying" ,
+        "question":"what is this unc saying?" ,
         "answer":"this aint no state property" ,
         "option1":"this aint no state property" ,
         "option2": "genz kids over here",
@@ -121,8 +121,8 @@
     {
         "genre":"international",
         "image":"assets/tungtung.jpg" ,
-        "question":"who is this gen-alpha's most loved legend",
-        "answer":"tung tungs shaurr",
+        "question":"Who is this gen-alpha's most loved legend?",
+        "answer":"Tung tungs shaurr",
         "option1":"woodeno wood" ,
         "option2":"tung tungs shaurr",
         "option3":"browiniw battty bo boo" 

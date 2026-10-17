@@ -14,10 +14,19 @@ let next = document.getElementById("next")
 
 let clickSound = new Audio("assets/click.mp3")
 
+let bgMusic = new Audio("assets/bg.mp3")
+bgMusic.loop = true
+bgMusic.volume = 0.3
+
 function playClick() {
     clickSound.currentTime = 0
     clickSound.play()
+
+    bgMusic.play()
+    clickSound.currentTime = 0
+    clickSound.play()
 }
+
 
 fetch("meme.json")
     .then(response => response.json())
